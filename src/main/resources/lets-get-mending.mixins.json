@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "net.pd98.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"VillagerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

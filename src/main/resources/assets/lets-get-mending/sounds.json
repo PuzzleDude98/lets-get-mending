@@ -1,0 +1,12 @@
+{
+  "fail": {
+    "sounds": [
+      "lets-get-mending:fail"
+    ]
+  },
+  "success": {
+    "sounds": [
+      "lets-get-mending:success"
+    ]
+  }
+}
