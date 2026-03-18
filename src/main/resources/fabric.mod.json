@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "lets-get-mending",
 	"version": "${version}",
-	"name": "Let`s get mending!",
+	"name": "Let's get mending!",
 	"description": "Plays helpful sounds when you roll librarian trades",
 	"authors": [
 		"Puzzle_Dude98"
